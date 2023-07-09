@@ -87,8 +87,8 @@ function showScores(){
 
 var questions = [
     new Question("JS Stands for",["Java Script","SQL Server","Sybase","Oracle"],"Java Script"),
-    new Question("XML Stands for",["Java Script","Extensible Markup Language","Sybase","Oracle"],"Extensible Markup Language"),
-    new Question("HTML Stands for",["Java Script","SQL Server","Hypertext Markup Language","Oracle"],"Hypertext Markup Language"),
+    new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
+    new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
     new Question("OS Stands for",["Java Script","SQL Server","Sybase","Operating System"],"Operating System"),
     new Question("DOS Stands for",["Java Script","Disk Operating System","Sybase","Oracle"],"Disk Operating System")
 ];
